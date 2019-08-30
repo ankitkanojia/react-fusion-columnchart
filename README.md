@@ -1,4 +1,4 @@
-# Implement column(2D & 3D) chart with react app
+# Implement column(2D & 3D) Fusion chart with react app
 FusionCharts is a JavaScript charting library which provides more than 95 charts and 2,000 maps which can be use full in mobile and web applications.
 
 ## Official Links
