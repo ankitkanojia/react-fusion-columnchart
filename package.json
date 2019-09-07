@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "fusioncharts": "^3.14.0-sr.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-fusioncharts": "^3.0.1",
